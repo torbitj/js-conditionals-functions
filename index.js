@@ -16,4 +16,4 @@ const userInput = () => {
   }
 }
 
-console.log(userInput())
+alert(userInput());
